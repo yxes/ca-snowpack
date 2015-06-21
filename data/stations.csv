@@ -1,0 +1,34 @@
+station,site_code,start,lat,lon,elev,county,huc_desc,huc_code
+"Adin Mtn",301,1984-9-01,41.24,-120.79,6190,Modoc,"Cottonwood Creek",180200021403
+"Blue Lakes",356,1980-7-01,38.61,-119.92,8057,Alpine,"Deer Creek",180400120101
+"Burnside Lake",1051,2003-9-01,38.72,-119.89,8129,Alpine,"Hot Springs Creek",160502010107
+"Carson Pass",1067,2004-9-01,38.69,-119.99,8353,"El Dorado","Caples Creek",180201290101
+"Cedar Pass",391,1978-10-01,41.58,-120.30,7030,Modoc,"Thoms Creek",180200020603
+"Crowder Flat",977,1999-10-01,41.89,-120.75,5170,Modoc,"Mosquito Creek-Willow Creek",180102040103
+"Css Lab",428,1981-5-01,39.33,-120.37,6855,Nevada,"Rattlesnake Creek-South Yuba River",180201250602
+"Dismal Swamp",446,1980-8-01,41.99,-120.18,7360,Modoc,"Dismal Creek-Deep Creek",171200070304
+"Ebbetts Pass",462,1978-10-01,38.55,-119.80,8765,Alpine,"Silver Creek",160502010104
+"Echo Peak",463,1979-9-01,38.85,-120.08,7670,"El Dorado","Upper Truckee River-Frontal Lake Tahoe",160501010303
+"Fallen Leaf",473,1978-10-01,38.93,-120.05,6236,"El Dorado","Fallen Leaf Lake-Frontal Lake Tahoe",160501010401
+"Forestdale Creek",1049,2003-9-01,38.68,-119.96,8017,Alpine,"Upper West Fork Carson River",160502010301
+"Hagan's Meadow",508,1978-10-01,38.85,-119.94,7776,"El Dorado","Trout Creek",160501010302
+"Heavenly Valley",518,1978-10-01,38.92,-119.92,8582,"El Dorado","Trout Creek",160501010302
+"Horse Meadow",1050,2003-9-01,38.84,-119.89,8557,Alpine,"Middle West Fork Carson River",160502010302
+"Independence Camp",539,1978-10-01,39.45,-120.29,7003,Sierra,"Independence Creek",160501020102
+"Independence Creek",540,1980-6-01,39.49,-120.28,6456,Sierra,"Independence Creek",160501020102
+"Independence Lake",541,1978-10-01,39.43,-120.31,8352,Nevada,"Sagehen Creek",160501020104
+"Leavitt Lake",574,1989-8-01,38.28,-119.61,9617,Mono,"Leavitt Creek-West Walker River",160503020104
+"Leavitt Meadows",575,1980-7-01,38.30,-119.55,7198,Mono,"Leavitt Creek-West Walker River",160503020104
+"Lobdell Lake",587,1978-10-01,38.44,-119.37,9233,Mono,"Deep Creek",160503020201
+"Monitor Pass",633,1990-7-01,38.67,-119.61,8310,Alpine,"Leviathan Canyon",160502010201
+"Poison Flat",697,1980-7-01,38.51,-119.63,7736,Alpine,"Bryant Creek-East Fork Carson River",160502010102
+"Rubicon #2",724,1980-8-01,39.00,-120.13,7689,"El Dorado","General Creek-Frontal Lake Tahoe",160501010402
+"Sonora Pass",771,1978-10-01,38.31,-119.60,8827,Mono,"Leavitt Creek-West Walker River",160503020104
+"Spratt Creek",778,1980-8-01,38.67,-119.82,6115,Alpine,"Hot Springs Creek",160502010107
+"Squaw Valley G.C.",784,1980-8-01,39.19,-120.26,8029,Placer,"Squaw Creek-Truckee River",160501020202
+"State Line",1258,2014-6-01,41.99,-120.72,5680,Modoc,"Weed Valley-North Fork Willow Creek",180102040201
+"Summit Meadow",1052,2003-9-01,38.40,-119.54,9313,Alpine,"Mill Creek",160503020203
+"Tahoe City Cross",809,1980-6-01,39.17,-120.15,6797,Placer,"Burton Creek-Frontal Lake Tahoe",160501010101
+"Truckee #2",834,1980-6-01,39.30,-120.18,6509,Placer,"Martis Creek",160501020204
+"Virginia Lakes Ridge",846,1978-10-01,38.07,-119.23,9445,Mono,"Virginia Creek",160503010103
+"Ward Creek #3",848,1978-10-01,39.14,-120.22,6655,Placer,"Ward Creek-Frontal Lake Tahoe",160501010403
